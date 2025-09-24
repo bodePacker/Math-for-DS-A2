@@ -9,11 +9,10 @@ Fall 2025
 ### Open the Jupyter notebook project1.ipynb in Google colab.
 Click the following badge to open the notebook in Google Colab. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/math-data-science-course/Project2/blob/main/project2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/bodePacker/Math-for-DS-A2/blob/main/project2.ipynb)
 
 *Note.* The URL in your README.md file will need to be modified so that it points to your ipynb. It should be:  
-https://colab.research.google.com/github/**mygithub**/**myreponame**/blob/main/project2.ipynb
+https://github.com/bodePacker/Math-for-DS-A2/blob/main/project2.ipynb
 
 
 
