@@ -1,13 +1,9 @@
 Math 5750/6880: Mathematics of Data Science  
+Bode Packer 
+u1415837
 Project2  
 Fall 2025
 
-### Copy this template repository.
-
-Click  
-> Use this template → create a new repository 
-
-and copy this template repository. Make your new repository is public so that I can see it.  
 
 
 ### Open the Jupyter notebook project1.ipynb in Google colab.
@@ -18,11 +14,6 @@ https://colab.research.google.com/github/math-data-science-course/Project2/blob/
 
 *Note.* The URL in your README.md file will need to be modified so that it points to your ipynb. It should be:  
 https://colab.research.google.com/github/**mygithub**/**myreponame**/blob/main/project2.ipynb
-
-
-### Save a copy in GitHub.
-Immediately 
-> File → Save a copy in GitHub… into your copied repo
 
 
 
